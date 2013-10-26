@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sesion", "sesion\sesion.csproj", "{B4F8C7FC-40FB-4AB4-BD50-24AC9C4D30DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F8C7FC-40FB-4AB4-BD50-24AC9C4D30DE}.Debug|x86.ActiveCfg = Debug|x86
+		{B4F8C7FC-40FB-4AB4-BD50-24AC9C4D30DE}.Debug|x86.Build.0 = Debug|x86
+		{B4F8C7FC-40FB-4AB4-BD50-24AC9C4D30DE}.Release|x86.ActiveCfg = Release|x86
+		{B4F8C7FC-40FB-4AB4-BD50-24AC9C4D30DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = sesion\sesion.csproj
+	EndGlobalSection
+EndGlobal
